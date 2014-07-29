@@ -1,4 +1,7 @@
-This is entirely taken from or based on, this awesome resource. This is by now means exactly how any and every incident will go down, but we thought it best to outline the process we'd take.
+This is a living document. Want to suggest changes? Head over to [github](https://github.com/jwilker/360idevdocs).
+
+
+This is entirely taken from or based on, this [awesome resource](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports). This is by now means exactly how any and every incident will go down, but we thought it best to outline the process we'd take.
 
 __If we receive a report of harassment, this is what will happen.__
 
