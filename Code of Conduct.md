@@ -7,7 +7,7 @@ __This applies to speakers, sponsors, and attendees of every event we organize._
 Harassment won't be tolerated at 360|Conferences events. Simple, that's it. You do it, we won't have you back. 
 We want to be very clear to all attendees, speakers and sponsors of our events, we value your participation, and if something, anything happens during the course of your participation at a 360|Conferences event that makes you uncomfortable, please. __No really, PLEASE make us aware of it__. We can't do anything about it if we never know about it. Or worse we find out after the fact. If you've ever attended a 360|Conferences event, you know we're visible and present the entire time, so you can come to us immediately or send us a message. Any communication we receive regarding an harassment issue will be kept in the strictest of confidence of course.  If anything happens at our events that make people uncomfortable or feel unwelcome at the event or in the community, then we've failed. We hate failure.
 
-__When we receive a complaint, we'll handle it.__
+__When we receive a complaint, we'll [handle it.](http://360conferences.com/how-things-are-handled)__
  
 By contact, we mean email, even a DM on twitter. Heck we'll share our phone number with anyone who wants it so they have just in case. What "make us aware of it" doesn't mean is publicly shaming someone or the event. That never goes well for anyone and escalates a situation that likely doesn't need to be escalated.
 
