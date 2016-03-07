@@ -2,7 +2,7 @@ This is a living document. Want to suggest changes? Head over to [github](https:
 This will be as clear as possible.
 
 
-__This applies to speakers, sponsors, and attendees of every event we organize.__
+__This applies to everyone who attends an event we organize.__
 
 Harassment won't be tolerated at 360|Conferences events. Simple, that's it. You do it, we won't have you back. 
 We want to be very clear to all attendees, speakers and sponsors of our events, we value your participation, and if something, anything happens during the course of your participation at a 360|Conferences event that makes you uncomfortable, please. __No really, PLEASE make us aware of it__. We can't do anything about it if we never know about it. Or worse we find out after the fact. If you've ever attended a 360|Conferences event, you know we're visible and present the entire time, so you can come to us immediately or send us a message. Any communication we receive regarding an harassment issue will be kept in the strictest of confidence of course.  If anything happens at our events that make people uncomfortable or feel unwelcome at the event or in the community, then we've failed. We hate failure.
@@ -11,7 +11,7 @@ __Harassment includes:__ offensive verbal comments related to gender, gender ide
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-__Sponsors are also subject to the anti-harassment policy_. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.
+__Sponsors are also subject to the anti-harassment policy__. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.
 If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
 __When we receive a complaint, we'll [handle it.](http://360conferences.com/how-things-are-handled)__
