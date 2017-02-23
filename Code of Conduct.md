@@ -4,7 +4,7 @@ This will be as clear as possible.
 
 __This applies to everyone who attends an event we organize.__
 
-Harassment won't be tolerated at 360|Conferences events. Simple, that's it. You do it, we won't have you back. 
+Harassment won't be tolerated at 360|Conferences events. Simple, that's it. You do it, we won't have you back, and we'll ask you to leave. 
 We want to be very clear to all attendees, speakers and sponsors of our events, we value your participation, and if something, anything happens during the course of your participation at a 360|Conferences event that makes you uncomfortable, please. __No really, PLEASE make us aware of it__. We can't do anything about it if we never know about it. Or worse we find out after the fact. If you've ever attended a 360|Conferences event, you know we're visible and present the entire time, so you can come to us immediately or send us a message. Any communication we receive regarding an harassment issue will be kept in the strictest of confidence of course.  If anything happens at our events that make people uncomfortable or feel unwelcome at the event or in the community, then we've failed. We hate failure.
 
 __Harassment includes:__ offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
