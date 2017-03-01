@@ -21,7 +21,7 @@ By contact, we mean email, even a DM on twitter. Heck we'll share our phone numb
 
 __For speakers, regarding your slides:__
 
-As far as we know it's never come up at one of our events, but a good rule of thumb is that if your parents will find one of your slides objectionable, it's probably not a good idea. Does that mean no cussing, fuck no, does that mean no slide of a naked people holding a laptop... yeah it does, and you should know better.
+As far as we know it's never come up at one of our events, but a good rule of thumb is that if your parents will find one of your slides objectionable, it's probably not a good idea. Does that mean no cussing, fuck no, does that mean no slide of a naked person holding a laptop... yeah it does, and you should know better.
 
 Part of what we think makes our events more enjoyable is a lack of corporate-ness and not feeling like a "big show", so yeah the occasional curse word will be in a session title, and is likely in many presentations. There's a fine line between colorful language and  using foul language just to do it. Our speakers know the difference.
 
