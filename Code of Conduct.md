@@ -16,7 +16,7 @@ If a participant engages in harassing behavior, the conference organisers may ta
 
 __When we receive a complaint, we'll [handle it.](http://360conferences.com/how-things-are-handled)__
  
-By contact, we mean email, even a DM on twitter. Heck we'll share our phone number with anyone who wants it so they have just in case. What "make us aware of it" doesn't mean is publicly shaming someone or the event. That never goes well for anyone and escalates a situation that likely doesn't need to be escalated.
+By contact, we mean email, even a DM on twitter. Heck we’ll share our phone number with anyone who wants it so they have it just in case. What "make us aware of it" doesn't mean is publicly shaming someone or the event. That never goes well for anyone and escalates a situation that likely doesn't need to be escalated.
 
 
 __For speakers, regarding your slides:__
